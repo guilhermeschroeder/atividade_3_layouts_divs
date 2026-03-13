@@ -16,7 +16,9 @@ body {
 }
 .flex{
     display: flex;
+     align-items: flex-start;
 }
+
 
 .azul{
     background-color: #0cbea1;
