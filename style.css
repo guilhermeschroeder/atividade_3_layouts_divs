@@ -29,5 +29,21 @@ body {
     padding-right:280px;
 }
 .esticar{
+    padding-bottom: 280px;
+}
+.esticarMais{
     padding-bottom: 400px;
+}
+.bloco1{
+    height: 480px;
+}
+.bloco2{
+    height: 120px;
+}
+.bloco3{
+    height: 300px;
+}
+.bloco4{
+    height: 300px;
+    
 }
