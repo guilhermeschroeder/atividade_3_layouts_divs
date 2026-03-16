@@ -26,8 +26,17 @@ body {
     margin: 10px;
 }
 .alongar{
-    padding-right:280px;
+    padding-right:300px;
 }
 .esticar{
-    padding-bottom: 400px;
+    padding-bottom: 350px;
+}
+.esticarMenos{
+    padding-bottom: 250px;
+}
+.alongarMenos{
+    padding-right: 250px;
+}
+.alongarMais{
+    padding-right: 500px;
 }
